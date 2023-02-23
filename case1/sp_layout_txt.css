@@ -14,15 +14,26 @@
 */
 
 /* Window and Body Styles */
+body{
+   width: 95%
+   min-width:
+}
 
+img{
+   display: block;
+}
 
 
 
 /* CSS Grid Styles */
+body{
+   display:grid;
+grid-template-columns: 25% 25% 25% 25%;
+}
 
-
-
-
+img#id{
+   
+}
 
 
 /* Horizontal Navigation List Styles */
