@@ -59,7 +59,8 @@ aside{
 /* Horizontal Navigation List Styles */
 nav.horizontal li{
    display: block;
-   display: 12.5%;
+   width: 12.5%;
+   float: left;
    
    
    
